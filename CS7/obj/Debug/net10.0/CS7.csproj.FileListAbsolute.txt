@@ -1,0 +1,14 @@
+/Users/ake/CSharp/CS7/bin/Debug/net10.0/CS7
+/Users/ake/CSharp/CS7/bin/Debug/net10.0/CS7.deps.json
+/Users/ake/CSharp/CS7/bin/Debug/net10.0/CS7.runtimeconfig.json
+/Users/ake/CSharp/CS7/bin/Debug/net10.0/CS7.dll
+/Users/ake/CSharp/CS7/bin/Debug/net10.0/CS7.pdb
+/Users/ake/CSharp/CS7/obj/Debug/net10.0/CS7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ake/CSharp/CS7/obj/Debug/net10.0/CS7.AssemblyInfoInputs.cache
+/Users/ake/CSharp/CS7/obj/Debug/net10.0/CS7.AssemblyInfo.cs
+/Users/ake/CSharp/CS7/obj/Debug/net10.0/CS7.csproj.CoreCompileInputs.cache
+/Users/ake/CSharp/CS7/obj/Debug/net10.0/CS7.dll
+/Users/ake/CSharp/CS7/obj/Debug/net10.0/refint/CS7.dll
+/Users/ake/CSharp/CS7/obj/Debug/net10.0/CS7.pdb
+/Users/ake/CSharp/CS7/obj/Debug/net10.0/CS7.genruntimeconfig.cache
+/Users/ake/CSharp/CS7/obj/Debug/net10.0/ref/CS7.dll

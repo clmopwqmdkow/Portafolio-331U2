@@ -1,0 +1,14 @@
+/Users/ake/CSharp/CS5/obj/Debug/net10.0/CS5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ake/CSharp/CS5/obj/Debug/net10.0/CS5.AssemblyInfoInputs.cache
+/Users/ake/CSharp/CS5/obj/Debug/net10.0/CS5.AssemblyInfo.cs
+/Users/ake/CSharp/CS5/obj/Debug/net10.0/CS5.csproj.CoreCompileInputs.cache
+/Users/ake/CSharp/CS5/bin/Debug/net10.0/CS5
+/Users/ake/CSharp/CS5/bin/Debug/net10.0/CS5.deps.json
+/Users/ake/CSharp/CS5/bin/Debug/net10.0/CS5.runtimeconfig.json
+/Users/ake/CSharp/CS5/bin/Debug/net10.0/CS5.dll
+/Users/ake/CSharp/CS5/bin/Debug/net10.0/CS5.pdb
+/Users/ake/CSharp/CS5/obj/Debug/net10.0/CS5.dll
+/Users/ake/CSharp/CS5/obj/Debug/net10.0/refint/CS5.dll
+/Users/ake/CSharp/CS5/obj/Debug/net10.0/CS5.pdb
+/Users/ake/CSharp/CS5/obj/Debug/net10.0/CS5.genruntimeconfig.cache
+/Users/ake/CSharp/CS5/obj/Debug/net10.0/ref/CS5.dll

@@ -1,0 +1,14 @@
+/Users/ake/CSharp/CS6/obj/Debug/net10.0/CS6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ake/CSharp/CS6/obj/Debug/net10.0/CS6.AssemblyInfoInputs.cache
+/Users/ake/CSharp/CS6/obj/Debug/net10.0/CS6.AssemblyInfo.cs
+/Users/ake/CSharp/CS6/obj/Debug/net10.0/CS6.csproj.CoreCompileInputs.cache
+/Users/ake/CSharp/CS6/bin/Debug/net10.0/CS6
+/Users/ake/CSharp/CS6/bin/Debug/net10.0/CS6.deps.json
+/Users/ake/CSharp/CS6/bin/Debug/net10.0/CS6.runtimeconfig.json
+/Users/ake/CSharp/CS6/bin/Debug/net10.0/CS6.dll
+/Users/ake/CSharp/CS6/bin/Debug/net10.0/CS6.pdb
+/Users/ake/CSharp/CS6/obj/Debug/net10.0/CS6.dll
+/Users/ake/CSharp/CS6/obj/Debug/net10.0/refint/CS6.dll
+/Users/ake/CSharp/CS6/obj/Debug/net10.0/CS6.pdb
+/Users/ake/CSharp/CS6/obj/Debug/net10.0/CS6.genruntimeconfig.cache
+/Users/ake/CSharp/CS6/obj/Debug/net10.0/ref/CS6.dll
